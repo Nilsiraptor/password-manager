@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <g fill="#cccccc" stroke="black" stroke-width="3" stroke-linejoin="round">
+        <path d="M20,50 l 0,-15 A 30,30 0,0,1 80,35 l 0,15 l -10,0 l 0,-15 A 20,20 0,0,0 30,35 l 0,15 z" />
+    </g>
+    <g fill="#f4c430" stroke="black" stroke-width="3" stroke-linejoin="round">
+        <rect x="15" y="45" width="70" height="50" />
+    </g>
+    <!--
+    <g fill="#888888" fill-rule="evenodd" stroke="black" stroke-width="0.5" stroke-linejoin="miter">
+        <path d="M40,50 l 35,0 l 5,5 l -5,5 l -2,0 l -1,-1 l -2,0 l -2,-2 l -2,0 l -3,3 l -2,0 l -2,-2 l -2,0 l -1.7,-1.7 l -2,0 l -3,3 l -2,0 l -1,-1 l -4,0 l 0,2 l -3.3,0 a 10,10 0,1,1 0,-10.3 z m-15,5.15 a 3,3 0,1,1 6,0 a 3,3 0,1,1 -6,0 z" transform="rotate(-30, 50, 55)"/>
+    </g>-->
+</svg>
